@@ -87,7 +87,6 @@ class PrinterApp(ctk.CTk):
     def _setup_window(self) -> None:
         self.title(APP_NAME)
         self.tk.call('wm', 'iconname', self._w, 'thermal-printer')
-        self.wm_class('thermal-printer', 'Thermal-printer')
 
         width = self._settings.get(SettingsKeys.Gui.WINDOW_WIDTH, DEFAULT_WINDOW_WIDTH)
         height = self._settings.get(SettingsKeys.Gui.WINDOW_HEIGHT, DEFAULT_WINDOW_HEIGHT)
