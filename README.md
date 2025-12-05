@@ -73,8 +73,8 @@ A modern GUI application for controlling Bluetooth thermal printers on Linux. Cu
 
 ```bash
 # Clone and enter directory
-git clone https://github.com/n3m0-22/ctp500-printer-control.git
-cd ctp500-printer-control
+git clone https://github.com/n3m0-22/thermal-printer.git
+cd thermal-printer
 
 # Create virtual environment and install dependencies
 python3 -m venv .venv_print
@@ -97,8 +97,8 @@ pip install -r requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/n3m0-22/ctp500-printer-control.git
-cd ctp500-printer-control
+git clone https://github.com/n3m0-22/thermal-printer.git
+cd thermal-printer
 ```
 
 ### 2. Install System Dependencies
