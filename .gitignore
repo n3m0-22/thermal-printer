@@ -24,9 +24,6 @@ htmlcov/
 *.swo
 *~
 
-# Auto-generated thumbnails
-gallery/templates/thumbs/
-
 # OS files
 .DS_Store
 Thumbs.db
