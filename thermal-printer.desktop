@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Thermal Printer
+Comment=Bluetooth thermal printer control application
+Exec=bash -c 'cd "$HOME/code/personal/print" && ./run.sh'
+Icon=printer
+Terminal=false
+Type=Application
+Categories=Utility;Printing;
+Keywords=printer;thermal;bluetooth;ctp500;
+StartupNotify=true
+StartupWMClass=thermal-printer

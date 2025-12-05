@@ -1,0 +1,32 @@
+# Virtual environment
+.venv_print/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Auto-generated thumbnails
+gallery/templates/thumbs/
+
+# OS files
+.DS_Store
+Thumbs.db

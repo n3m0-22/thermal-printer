@@ -1,0 +1,52 @@
+printer:
+  mac_address: ''
+  device_name: ''
+  width: 384
+  rfcomm_channel: 1
+text:
+  font_family: DejaVu Sans Mono
+  font_size: 24
+  alignment: left
+  bold: false
+  italic: false
+  darkness: 1.0
+  add_date: false
+  date_format: '%Y-%m-%d %H:%M'
+image:
+  brightness: 1.0
+  contrast: 1.0
+  dither_mode: none
+  rotation: 0
+  invert: false
+  auto_resize: true
+gui:
+  window_width: 800
+  window_height: 700
+  window_x: null
+  window_y: null
+  appearance_mode: System
+  color_theme: blue
+  last_tab: Text
+  gallery_thumbnail_size: Medium
+  preview_scale: 1.0
+timing:
+  command_delay: 0.5
+  scan_timeout: 10
+printing:
+  feed_lines_before: 0
+  feed_lines_after: 3
+banner:
+  font_family: DejaVu Sans Mono
+  font_size: 72
+  alignment: left
+  bold: false
+  italic: false
+  darkness: 1.5
+  add_date: false
+  date_format: '%Y-%m-%d %H:%M'
+label:
+  darkness: 1.5
+  last_template_dir: ''
+unicode:
+  show_font_switch_popup: true
+  preferred_font: Catrinity
