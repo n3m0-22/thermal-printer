@@ -484,4 +484,5 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 - [ ] Create executable binary
 - [ ] Various bug fixes
 - [ ] Refactor out duplicate code
+- [ ] Markdown support
 - [ ] Add LaTeX or MathML support
